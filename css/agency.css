@@ -511,10 +511,10 @@ ul.social-buttons {
     outline: none;
     background-color: #222222; }
     ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-      background-color: #fed136; }
+      background-color: #ff2052; }
 
 .text-primary {
-  color: #fed136 !important; }
+  color: #ff2052 !important; }
 
 .btn-primary {
   font-weight: 700;
